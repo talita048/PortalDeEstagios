@@ -28,7 +28,7 @@ A aplicação está sendo criada usando [NextJS](https://nextjs.org/).
 
 Requisitos:
 
-* Node.js 18.17 ou mais recente precisa estar instalado na sua máquina *(acesse https://nextjs.org/ para tutorial de instalação e como utilizar)*.
+* Node.js 18.17 ou mais recente precisa estar instalado na sua máquina *(acesse https://nextjs.org/ para tutorial de instalação e como utilizar)*. 
 
 Comando para iniciar a aplicação em modo desenvolvimento:
 
